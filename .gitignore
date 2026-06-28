@@ -12,6 +12,8 @@ dist
 dist-ssr
 artifacts
 .playwright-cli
+docs/media/frames
+docs/media/tech-frames
 *.local
 
 # Editor directories and files
